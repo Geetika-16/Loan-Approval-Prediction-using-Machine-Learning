@@ -18,50 +18,51 @@ Loan Approval Prediction is a machine learning project developed during my inter
 ## 3. Technologies Used
 
 ### Programming Language
-Python
+* Python
 
 ### Libraries
-Pandas
-NumPy
-Scikit-learn
+* Pandas
+* NumPy
+* Scikit-learn
 
 ### Machine Learning
-Logistic Regression
+* Logistic Regression
 
 ### Concepts
-Data Cleaning
-Data Preprocessing
-One-Hot Encoding
-Feature Selection
-Train-Test Split
-Model Training
-Model Evaluation
-Classification
+* Data Cleaning
+* Data Preprocessing
+* One-Hot Encoding
+* Feature Selection
+* Train-Test Split
+* Model Training
+* Model Evaluation
+* Classification
 
 ## 4. Project Workflow
 
 ### Step 1: Data Collection
-Load the loan application dataset.
+* Load the loan application dataset.
 
 ### Step 2: Data Cleaning
-Handle missing values using forward fill and backward fill methods.
+* Handle missing values using forward fill and backward fill methods.
 
 ### Step 3: Data Preprocessing
-Convert categorical variables into numerical format using One-Hot Encoding.
-Remove redundant dummy variables.
+* Convert categorical variables into numerical format using One-Hot Encoding.
+* Remove redundant dummy variables.
 
 ### Step 4: Feature Selection
-Separate input features (X) and target variable (Y).
+* Separate input features (X) and target variable (Y).
+
 ### Step 5: Model Training
-Split the dataset into training and testing sets.
-Train a Logistic Regression classification model.
+* Split the dataset into training and testing sets.
+* Train a Logistic Regression classification model.
 
 ### Step 6: Prediction
-Predict loan approval outcomes on the test dataset.
+* Predict loan approval outcomes on the test dataset.
 
 ### Step 7: Model Evaluation
-Evaluate the model using Accuracy Score.
-Analyze prediction results with a Confusion Matrix.
+* Evaluate the model using Accuracy Score.
+* Analyze prediction results with a Confusion Matrix.
 
 ## 5. Outcome
 
