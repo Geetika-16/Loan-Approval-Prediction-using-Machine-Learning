@@ -5,14 +5,15 @@
 Loan Approval Prediction is a machine learning project developed during my internship to predict whether a loan application is likely to be approved based on applicant information. The project involves data preprocessing, feature encoding, model training, and evaluation using Logistic Regression to support data-driven loan approval decisions.
 
 ## 2. Features
-Import and preprocess loan application dataset.
-Handle missing values.
-Encode categorical features using One-Hot Encoding.
-Select relevant input features.
-Split data into training and testing datasets.
-Train a Logistic Regression model.
-Predict loan approval status.
-Evaluate model performance using Accuracy Score and Confusion Matrix.
+
+1. Import and preprocess loan application dataset.
+2. Handle missing values.
+3. Encode categorical features using One-Hot Encoding.
+4. Select relevant input features.
+5. Split data into training and testing datasets.
+6. Train a Logistic Regression model.
+7. Predict loan approval status.
+8. Evaluate model performance using Accuracy Score and Confusion Matrix.
 
 ## 3. Technologies Used
 
